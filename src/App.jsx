@@ -20,7 +20,7 @@ function App() {
           letterSpacing: "1.2px"
         }}
       >
-        Welcome To Devops class AIML
+        Welcome To Devops class AIDS
       </h1> 
     </div>
   );
